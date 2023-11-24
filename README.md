@@ -44,9 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![EMPD experiment4 record4](https://github.com/Hashwatha/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231431/bb00d4eb-c0b2-4564-8f92-cec4fc50f816)
 
-### Name:
-### Register Number:
+### Name: M.Hashwatha
+### Register Number: 23012398
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
